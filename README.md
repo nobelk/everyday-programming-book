@@ -1,2 +1,2 @@
-# everyday-programming-book
+# Everyday Programming
 Everyday programming
