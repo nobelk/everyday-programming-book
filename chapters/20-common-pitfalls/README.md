@@ -1,6 +1,6 @@
 # Chapter 20 — Common Pitfalls
 
-Part VII · Tools of the Trade — *Everyday Programming*
+Part VII · Reference — *Everyday Programming*
 
 | Set | Problems | Where |
 |---|---:|---|
