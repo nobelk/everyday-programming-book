@@ -1,6 +1,6 @@
 # Chapter 2 — Problem Solving
 
-Part I · Basic Concepts — *Everyday Programming*
+Part I · Foundations — *Everyday Programming*
 
 | Set | Problems | Where |
 |---|---:|---|

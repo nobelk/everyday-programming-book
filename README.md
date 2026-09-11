@@ -16,33 +16,34 @@ Nothing here needs more mathematics than 10th grade: arithmetic, powers, square 
 
 | Chapter | Find the Bug | Other | Links |
 |---|---:|---:|---|
-| **I. Basic Concepts** | | | |
+| **I. Foundations** | | | |
 | 1. Mathematical Concepts | — | — | *no problem set* |
 | 2. [Problem Solving](chapters/02-problem-solving) | — | 7 | [worked examples](chapters/02-problem-solving/worked-examples.md) |
-| **II. Computers and Programming** | | | |
+| **II. Getting Started** | | | |
 | 3. Computers | — | — | *no problem set* |
 | 4. Language Fundamentals | — | — | *no problem set* |
-| **III. Data and Operations** | | | |
-| 5. [Data Structures](chapters/05-data-structures) | 50 | 20 | [find the bug](chapters/05-data-structures/find-the-bug.md) · [solutions](chapters/05-data-structures/solutions.md) · [applied](chapters/05-data-structures/applied-problems.md) |
-| 6. [Objects](chapters/06-objects) | 25 | — | [find the bug](chapters/06-objects/find-the-bug.md) · [solutions](chapters/06-objects/solutions.md) |
-| 7. [Operators](chapters/07-operators) | 25 | — | [find the bug](chapters/07-operators/find-the-bug.md) · [solutions](chapters/07-operators/solutions.md) |
-| 8. [Input and Output](chapters/08-input-and-output) | 5 | — | [find the bug](chapters/08-input-and-output/find-the-bug.md) · [solutions](chapters/08-input-and-output/solutions.md) |
+| 5. Tools | — | — | *no problem set* |
+| **III. Data** | | | |
+| 6. [Data Structures](chapters/06-data-structures) | 50 | 20 | [find the bug](chapters/06-data-structures/find-the-bug.md) · [solutions](chapters/06-data-structures/solutions.md) · [applied](chapters/06-data-structures/applied-problems.md) |
+| 7. [Lists](chapters/07-lists) | 10 | — | [find the bug](chapters/07-lists/find-the-bug.md) · [solutions](chapters/07-lists/solutions.md) |
+| 8. [Operators](chapters/08-operators) | 25 | — | [find the bug](chapters/08-operators/find-the-bug.md) · [solutions](chapters/08-operators/solutions.md) |
+| 9. [Input and Output](chapters/09-input-and-output) | 5 | — | [find the bug](chapters/09-input-and-output/find-the-bug.md) · [solutions](chapters/09-input-and-output/solutions.md) |
 | **IV. Control Flow** | | | |
-| 9. [Control Flow](chapters/09-control-flow) | 55 | 40 | [find the bug](chapters/09-control-flow/find-the-bug.md) · [solutions](chapters/09-control-flow/solutions.md) · [applied](chapters/09-control-flow/applied-problems.md) |
-| 10. [Functions](chapters/10-functions) | 60 | 40 | [find the bug](chapters/10-functions/find-the-bug.md) · [solutions](chapters/10-functions/solutions.md) · [applied](chapters/10-functions/applied-problems.md) |
-| 11. [Scoping](chapters/11-scoping) | 30 | — | [find the bug](chapters/11-scoping/find-the-bug.md) · [solutions](chapters/11-scoping/solutions.md) |
-| **V. Simple and Complex Programs** | | | |
-| 12. [A Python Program](chapters/12-a-python-program) | — | 70 | [applied](chapters/12-a-python-program/applied-problems.md) |
-| 13. [Modules](chapters/13-modules) | 10 | — | [find the bug](chapters/13-modules/find-the-bug.md) · [solutions](chapters/13-modules/solutions.md) |
-| 14. Packages | — | — | *no problem set* |
+| 10. [Control Flow](chapters/10-control-flow) | 55 | 40 | [find the bug](chapters/10-control-flow/find-the-bug.md) · [solutions](chapters/10-control-flow/solutions.md) · [applied](chapters/10-control-flow/applied-problems.md) |
+| 11. [Functions](chapters/11-functions) | 60 | 40 | [find the bug](chapters/11-functions/find-the-bug.md) · [solutions](chapters/11-functions/solutions.md) · [applied](chapters/11-functions/applied-problems.md) |
+| 12. [Scoping](chapters/12-scoping) | 30 | — | [find the bug](chapters/12-scoping/find-the-bug.md) · [solutions](chapters/12-scoping/solutions.md) |
+| **V. Building Programs** | | | |
+| 13. [A Python Program](chapters/13-a-python-program) | — | 70 | [applied](chapters/13-a-python-program/applied-problems.md) |
+| 14. [Objects](chapters/14-objects) | 15 | — | [find the bug](chapters/14-objects/find-the-bug.md) · [solutions](chapters/14-objects/solutions.md) |
+| 15. [Modules](chapters/15-modules) | 10 | — | [find the bug](chapters/15-modules/find-the-bug.md) · [solutions](chapters/15-modules/solutions.md) |
+| 16. Packages | — | — | *no problem set* |
 | **VI. Quality** | | | |
-| 15. Defining Quality | — | — | *no problem set* |
-| 16. [Handling Failures](chapters/16-handling-failures) | 20 | — | [find the bug](chapters/16-handling-failures/find-the-bug.md) · [solutions](chapters/16-handling-failures/solutions.md) |
-| 17. [Testing](chapters/17-testing) | 15 | — | [find the bug](chapters/17-testing/find-the-bug.md) · [solutions](chapters/17-testing/solutions.md) |
-| 18. [Bugs](chapters/18-bugs) | 20 | — | [find the bug](chapters/18-bugs/find-the-bug.md) · [solutions](chapters/18-bugs/solutions.md) |
-| **VII. Tools of the Trade** | | | |
-| 19. Tools | — | — | *no problem set* |
+| 17. [Handling Failures](chapters/17-handling-failures) | 20 | — | [find the bug](chapters/17-handling-failures/find-the-bug.md) · [solutions](chapters/17-handling-failures/solutions.md) |
+| 18. [Testing](chapters/18-testing) | 15 | — | [find the bug](chapters/18-testing/find-the-bug.md) · [solutions](chapters/18-testing/solutions.md) |
+| 19. [Bugs](chapters/19-bugs) | 20 | — | [find the bug](chapters/19-bugs/find-the-bug.md) · [solutions](chapters/19-bugs/solutions.md) |
+| **VII. Reference** | | | |
 | 20. [Common Pitfalls](chapters/20-common-pitfalls) | 130 | — | [find the bug](chapters/20-common-pitfalls/find-the-bug.md) · [solutions](chapters/20-common-pitfalls/solutions.md) |
+| 21. Find the Bug: Solutions | — | — | *pointer chapter in the book* |
 
 ## How the sets map onto the book
 

@@ -1,6 +1,6 @@
 # Chapter 20 — Common Pitfalls: Find the Bug
 
-Part VII · Tools of the Trade — *Everyday Programming*
+Part VII · Reference — *Everyday Programming*
 
 Each program below has exactly one bug drawn from a common Python pitfall; read the prompt, run the code in your head, and find the single mistake.
 
